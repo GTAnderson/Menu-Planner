@@ -24,6 +24,9 @@ Weekly Meal Prep Menu Planner
    
 * **It should** retrieve and display [Nutrition Facts](https://github.com/GTAnderson/menu-planner/blob/main/view_nutrition_facts_label.pdf) for the user's choices from FDA.gov.
 
+* Potential additional features may include:
+   * Saving data to a **User Profile**
+   * Comparing user selections and making suggestions based on FDA dietary guidelines.
 
 > "Weekly Reminder: Planning your meals prevents bad decisions.
 > On resting cheat days, we meal prep."
