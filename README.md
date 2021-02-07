@@ -1,51 +1,29 @@
 
-# Menu-Planner H1 Header
-Meal Prep Menu Planner
+# Menu-Planner
+
+Weekly Meal Prep Menu Planner
+
+## Features and Requirements
+
+* **It should** take user input via a [Landing Page](https://github.com/GTAnderson/menu-planner/blob/main/view_landing_page_moqups_wireframe.jpg) with dropdowns *and/or* text fields.
+
+* **It should** generate and display a *printable* [Weekly Meal Plan](https://github.com/GTAnderson/menu-planner/blob/main/view_weekly_meal_plan.pdf) which includes:
+   * Meals for breakfast, lunch and dinner
+   * Selections for 6 individual week days
+   * 1 cheat day / day of rest is not included
+
+* **It should** create a [Grocery Shopping List](https://github.com/GTAnderson/menu-planner/blob/main/view_grocery_list.pdf) with category breakdowns such as:
+   * Vegeatables
+   * Fruits
+   * Nuts & seeds
+   * Beans & legumes
+   * Eggs & dairy
+   * Poultry, meats & seafood
+   * Grains
+   * ~~Herbs & spices~~
+   
+* **It should** retrieve and display [Nutrition Facts](https://github.com/GTAnderson/menu-planner/blob/main/view_nutrition_facts_label.pdf) for the user's choices from FDA.gov.
 
 
-## Markdown Reference
-
-*italic text*
-
-_italic text_
-
-**bold text**
-
-__bold text__
-
-_**bold-italic text**_
-
-~~strikethrough text~~
-
-* unordered list item 1
-* unordered list item 2
-  * item 2a
-  * item 2b
-
-1. ordered list item 1
-1. ordered list item 2
-   1. item 2a
-   1. item 2b
-
-![GitHub Logo Image](github.com/images/logo.png)
-Format: ![Alt Text](url)
-
-http://github.com/automatic-link
-
-[Link to GitHub](http://github.com)
-
-> "Blockquote lorem ipsum sit dolor amet."
-
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-
-Table Header 1 | Table Header 2
------------- | -------------
-Column 1 | Column 2
-Column 1 | Column 2
-
+> "Weekly Reminder: Planning your meals prevents bad decisions.
+> On resting cheat days, we meal prep."
