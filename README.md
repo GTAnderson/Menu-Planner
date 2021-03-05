@@ -1,32 +1,22 @@
 
 # Menu-Planner
 
-Weekly Meal Prep Menu Planner
+Vertical Diet Meal Prep Menu Planner
 
 ## Features and Requirements
 
-* **It should** take user input via a [Landing Page](https://github.com/GTAnderson/menu-planner/blob/main/view_landing_page_moqups_wireframe.jpg) with dropdowns *and/or* text fields.
+* **It should** create recipes with names and ingredients from user input via a [Landing Page](https://github.com/GTAnderson/menu-planner/blob/main/view_landing_page_moqups_wireframe.jpg) with dropdowns *and/or* text fields.
 
-* **It should** generate and display a *printable* [Weekly Meal Plan](https://github.com/GTAnderson/menu-planner/blob/main/view_weekly_meal_plan.pdf) which includes:
-   * Meals for breakfast, lunch and dinner
-   * Selections for 6 individual week days
-   * 1 cheat day / day of rest is not included
+* **It should** generate and display a *clickable* [Meal Plan](https://github.com/GTAnderson/menu-planner/blob/main/view_weekly_meal_plan.pdf) List which includes:
+   * an index view with the names of all the recipes.
+   * an individual view of a single recipe.
 
-* **It should** create a [Grocery Shopping List](https://github.com/GTAnderson/menu-planner/blob/main/view_grocery_list.pdf) with category breakdowns such as:
-   * Vegeatables
-   * Fruits
-   * Nuts & seeds
-   * Beans & legumes
-   * Eggs & dairy
-   * Poultry, meats & seafood
-   * Grains
-   * ~~Herbs & spices~~
-   
-* **It should** retrieve and display [Nutrition Facts](https://github.com/GTAnderson/menu-planner/blob/main/view_nutrition_facts_label.pdf) for the user's choices from FDA.gov.
+* **It should** allow these recipes to be edited or deleted through user interaction.
+
+* **It should** allow new recipes to be saved in the browser's local storage.
+
+~~* **It should** create a [Grocery Shopping List](https://github.com/GTAnderson/menu-planner/blob/main/view_grocery_list.pdf) with category breakdowns such as Proteins, Carbs, Oils & Vegetables.~~
 
 * Potential additional features may include:
    * Saving data to a **User Profile**
    * Comparing user selections and making suggestions based on FDA dietary guidelines.
-
-> "Weekly Reminder: Planning your meals prevents bad decisions.
-> On resting cheat days, we meal prep."
