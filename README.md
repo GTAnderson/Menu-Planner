@@ -15,7 +15,7 @@ Vertical Diet Meal Prep Menu Planner
 
 * **It should** allow new recipes to be saved in the browser's local storage.
 
-* ~~**It should** create a [Grocery Shopping List](https://github.com/GTAnderson/menu-planner/blob/main/view_grocery_list.pdf) with category breakdowns such as:
+* ~~**It should** create a [Grocery Shopping List](https://github.com/GTAnderson/menu-planner/blob/main/view_grocery_list.pdf) with category breakdowns such as:~~
    * ~~Proteins~~
    * ~~Carbs~~
    * ~~Oils, Nuts & Seeds~~
